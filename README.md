@@ -1,2 +1,3 @@
-# 3d-game-c-
-Um jogo 3d de tiro usando c++
+# 🎮 3D Game using C++
+
+-** To compile:**
