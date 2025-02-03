@@ -1,0 +1,14 @@
+MeuJogo/
+│
+├── src/
+│   ├── main.cpp
+│   ├── Game.cpp
+│   ├── Game.h
+│   └── Bullet.cpp
+│   └── Bullet.h
+│
+├── include/
+│   └── (arquivos de cabeçalho do SFML e OpenGL)
+│
+├── CMakeLists.txt
+└── README.md
